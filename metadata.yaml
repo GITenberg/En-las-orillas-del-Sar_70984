@@ -1,0 +1,36 @@
+_repo: En-las-orillas-del-Sar_70984
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Castro, Rosalía de
+    aliases:
+    - Murguía, Rosalía Castro de
+    - De Murguía, Rosalía Castro
+    - Murguia, Rosalia Castro de
+    birthdate: 1837
+    deathdate: 1885
+    gutenberg_agent_id: '50266'
+    url: http://www.gutenberg.org/2009/agents/50266
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Rosal%C3%ADa_de_Castro
+    - https://gl.wikipedia.org/wiki/Rosal%C3%ADa_de_Castro
+description: ''
+gutenberg_issued: '2023-06-15'
+identifiers:
+  gutenberg: '70984'
+language: es
+pgterms:marc904: https://archive.org/details/enlasorillasdel00cast
+pgterms:marc905: 20220404005940decastro
+pgterms:marc906: '1909'
+pgterms:marc907: Spain
+production_note: Ramón Pajares Box and The Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aSpain :$bLibrería de Pueyo, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: En las orillas del Sar
+url: http://www.gutenberg.org/ebooks/70984
